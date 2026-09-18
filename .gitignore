@@ -1,0 +1,32 @@
+# Python build and virtual-environment artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+.venv/
+.lipsync-venv/
+
+# Local configuration and secrets
+.env
+.env.*
+!.env.example
+*.key
+*.pem
+
+# Downloaded models and local processing artifacts
+lipsync_weights/
+runs/
+logs/
+projects/
+backups/
+
+# Test materials and generated test output
+tests/
+test-results/
+coverage/
+.coverage
+
+# OS/editor artifacts
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

@@ -1,0 +1,27 @@
+voice:
+  provider: windows_sapi
+  fallback: windows_sapi
+presenter:
+  provider: gary
+  fallback: liz
+  gary_reference_video: D:\ggf-tools\GGF-Tutorial-Factory\assets\presenters\gary\gary_reference.mp4
+  gary_voice_reference: D:\ggf-tools\GGF-Tutorial-Factory\assets\presenters\gary\gary_voice_reference.wav
+  gary_driving_reference: D:\ggf-tools\GGF-Tutorial-Factory\assets\presenters\gary\gary_driving_reference.jpg
+vision_qa:
+  provider: manual_frame_sampling
+screen_recording:
+  provider: ffmpeg_gdigrab_app_rectangle
+  obs_available_for_future_adapter: true
+llm:
+  enabled: true
+  provider: qwen_local
+  model: Qwen3.8-27B-UD-Q4_K_M
+  endpoint: http://127.0.0.1:28084/v1
+  runtime_root: D:\staging\qwen-agent\GGF-Qwen3.8-Local-Agent-GUI
+  auto_start: true
+  context_limit: auto
+  temperature: 0.1
+  timeout_seconds: 240
+  max_output_tokens: 4500
+  structured_output: required_function_call
+  fallback: deterministic

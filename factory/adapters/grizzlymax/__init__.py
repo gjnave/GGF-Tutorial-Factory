@@ -1,0 +1,2 @@
+"""GrizzlyMax adapter."""
+

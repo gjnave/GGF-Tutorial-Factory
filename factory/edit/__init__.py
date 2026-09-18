@@ -1,0 +1,2 @@
+"""Automated editing pipeline."""
+

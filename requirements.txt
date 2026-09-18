@@ -1,0 +1,6 @@
+PyYAML>=6.0,<7
+PyAutoGUI>=0.9.54,<1
+Pillow>=10,<13
+psutil>=5.9,<8
+pyttsx3>=2.90,<3
+pywinauto>=0.6.9,<1

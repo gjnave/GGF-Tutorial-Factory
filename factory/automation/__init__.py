@@ -1,0 +1,2 @@
+"""Deterministic physical UI automation."""
+
