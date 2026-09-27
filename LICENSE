@@ -1,0 +1,203 @@
+GGF COLLABORATIVE SOURCE LICENSE
+Version 1.0
+
+Copyright (c) 2026 Gary Nave. All rights reserved.
+
+This license applies to the GGF Tutorial Factory software, documentation,
+configuration, media, and other materials distributed with this license
+(the "Software").
+
+1. ACCEPTANCE
+
+By using, copying, modifying, or distributing the Software, you agree to
+the terms of this license.
+
+2. NONCOMMERCIAL RIGHTS
+
+Subject to the terms of this license, you may:
+
+(a) use the Software for personal, educational, research, evaluation,
+    hobby, and other noncommercial purposes;
+
+(b) copy, study, modify, improve, and create derivative works from the
+    Software;
+
+(c) fork the project and collaborate with others; and
+
+(d) distribute the Software or modified versions of it for noncommercial
+    purposes.
+
+These permissions are granted without charge.
+
+3. ATTRIBUTION AND PROJECT CREDIT
+
+Any copy, fork, derivative work, public distribution, or substantially
+modified version of the Software must preserve the following attribution
+in a reasonably prominent location:
+
+    "Originally created by Gary Nave / Get Going Fast
+     as the GGF Tutorial Factory."
+
+You may add your own name and the names of other contributors, but you may
+not remove, obscure, replace, or misrepresent Gary Nave's original-project
+credit.
+
+Existing copyright, authorship, license, and attribution notices must also
+be preserved.
+
+This license does not permit you to falsely claim that Gary Nave, Get Going
+Fast, or the original project endorses your modified version.
+
+4. COLLABORATIVE DEVELOPMENT
+
+If you publicly distribute a modified version or derivative work, you must:
+
+(a) make the corresponding source code for your modifications available
+    under this license;
+
+(b) clearly identify that the work has been modified;
+
+(c) preserve the attribution required by Section 3; and
+
+(d) provide reasonable notice of the public fork or derivative project to
+    Gary Nave through the original GitHub repository, such as by opening an
+    issue, discussion, or pull request that identifies the project and its
+    material changes.
+
+You are encouraged, but not required, to submit useful improvements
+upstream to the original repository.
+
+5. COMMERCIAL USE REQUIRES A SEPARATE AGREEMENT
+
+This license does NOT grant the right to use the Software for commercial
+purposes.
+
+"Commercial Use" includes use of the Software or a derivative work in
+connection with revenue-generating or compensated activity, including but
+not limited to:
+
+(a) selling or licensing the Software or a derivative work;
+
+(b) charging for access, subscriptions, hosted access, or software-as-a-
+    service based substantially on the Software;
+
+(c) bundling the Software with a paid product or service;
+
+(d) using the Software as a material component of paid consulting,
+    production, automation, training, or other services;
+
+(e) monetizing a derivative product whose material functionality is based
+    on the Software; or
+
+(f) otherwise receiving direct or indirect commercial compensation from
+    exploitation of the Software.
+
+Commercial Use is permitted only under a separate written agreement with
+Gary Nave obtained before the Commercial Use begins.
+
+That separate commercial agreement must include mutually agreed
+compensation or revenue-sharing terms for Gary Nave. No commercial rights
+are granted by this public license alone.
+
+6. NO COMMERCIAL WORKAROUND THROUGH A FORK
+
+Creating a fork, derivative work, translation, port, rewrite, wrapper,
+hosted version, or substantially similar implementation based on the
+Software does not avoid the Commercial Use requirements of Section 5.
+
+A person or organization may not use modifications to remove Gary Nave from
+the project in order to commercially exploit the Software without a written
+commercial agreement.
+
+7. CONTRIBUTIONS
+
+Unless explicitly stated otherwise in writing when a contribution is
+submitted, any code, documentation, configuration, or other material
+intentionally submitted to the original GGF Tutorial Factory repository for
+inclusion in the project is licensed to the project under this license.
+
+The contributor also grants Gary Nave a perpetual, worldwide, non-exclusive,
+royalty-free right to use, reproduce, modify, distribute, sublicense, and
+relicense that contribution as part of GGF Tutorial Factory and related
+versions of the project.
+
+Contributors retain ownership of their own contributions.
+
+8. TRADEMARKS AND PROJECT IDENTITY
+
+This license does not grant ownership of the names "GGF Tutorial Factory,"
+"Get Going Fast," "GGF," or any related logos, branding, or trademarks.
+
+You may use those names only as reasonably necessary to provide truthful
+attribution or describe compatibility or origin.
+
+A modified version must not imply that it is the official GGF Tutorial
+Factory unless Gary Nave has authorized that representation.
+
+9. THIRD-PARTY COMPONENTS
+
+Third-party software, models, libraries, assets, or other materials included
+with or used by the Software remain subject to their own licenses and terms.
+This license does not override those terms.
+
+10. TERMINATION
+
+Your rights under this license terminate automatically if you materially
+violate its terms.
+
+For a first violation that is reasonably capable of correction, your rights
+may be reinstated if you fully cure the violation within 30 days after
+receiving written notice from Gary Nave.
+
+Commercial exploitation without the written agreement required by Section 5
+may be treated as a material violation.
+
+11. NO TRANSFER OF OWNERSHIP
+
+This license grants permissions to use the Software. It does not transfer
+ownership of the original Software, project identity, copyright, or other
+intellectual property belonging to Gary Nave or any other contributor.
+
+12. NO PARTNERSHIP
+
+Collaboration under this license does not by itself create a partnership,
+joint venture, employment relationship, agency relationship, or fiduciary
+relationship between Gary Nave and any contributor or user.
+
+Any commercial relationship exists only as stated in a separate written
+agreement.
+
+13. DISCLAIMER OF WARRANTY
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NON-INFRINGEMENT.
+
+TO THE MAXIMUM EXTENT PERMITTED BY LAW, THE AUTHORS AND COPYRIGHT HOLDERS
+WILL NOT BE LIABLE FOR ANY CLAIM, DAMAGES, OR OTHER LIABILITY ARISING FROM,
+OUT OF, OR IN CONNECTION WITH THE SOFTWARE OR ITS USE.
+
+14. GOVERNING LAW
+
+To the extent permitted by applicable law, this license is governed by the
+laws of the State of Idaho, United States, without regard to conflict-of-law
+principles.
+
+15. COMMERCIAL LICENSING
+
+For commercial licensing, revenue-sharing arrangements, partnerships, or
+other permissions beyond this license, contact the maintainer through the
+official GGF Tutorial Factory repository or Get Going Fast.
+
+---
+
+Plain-language summary (not a substitute for the license terms):
+
+- You may study it, fork it, improve it, and share noncommercial versions.
+- Gary Nave's original-project credit must stay with the project.
+- Public forks must remain source-available under this license and notify
+  the original project.
+- You cannot commercially monetize the project or a derivative without a
+  written agreement with Gary Nave.
+- Any commercial agreement must include agreed compensation or revenue
+  sharing for Gary Nave.
